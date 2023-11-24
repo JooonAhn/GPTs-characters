@@ -1,3 +1,5 @@
 # GPTs
-We make GPTs characters "Unexpected Questions Bot" for getting creative insight.
+We make GPTs characters for getting creative insight.
 
+1. Unexpected Questions Bot
+2. Red team
